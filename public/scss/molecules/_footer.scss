@@ -1,0 +1,13 @@
+.footer{
+	text-align: center;
+	line-height: 50px;
+	.footer__item--social{
+		padding: 10px;
+		list-style: none;
+		display: inline-block;
+		i{
+			color: $blue;
+			font-size: 18px;
+		}
+	}
+}
